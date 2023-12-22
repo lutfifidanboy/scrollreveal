@@ -31,7 +31,7 @@
 
 # Installation
 
-## Browser
+## Browser Details
 
 A simple and fast way to get started is to include this script on your page:
 
